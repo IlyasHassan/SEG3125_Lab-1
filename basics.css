@@ -1,22 +1,22 @@
 .comment {
-	font-family: Tisa;
+    font: 62.5%/1.6 "proxima-nova", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
 	border-bottom: 0px;
 }
 .submit {
-	font-family: Tisa;
+    font: 62.5%/1.6 "proxima-nova", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
 	border-right: 0px;
 
 }
 .questions {
-	font-family: Tisa;
+    font: 62.5%/1.6 "proxima-nova", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
 	border-left: 0px;
 
 }
 body {
 
-	font-family: Tisa;
+    font: 62.5%/1.6 "proxima-nova", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
 }
 
 h1 {
-	font-family: Tisa;
+    font: 62.5%/1.6 "proxima-nova", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
 }
