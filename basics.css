@@ -1,22 +1,22 @@
 .comment {
-    font: 62.5%/1.6 "proxima-nova", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+    font-family: Helvetica;
 	border-bottom: 0px;
 }
 .submit {
-    font: 62.5%/1.6 "proxima-nova", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+    font-family: Helvetica;
 	border-right: 0px;
 
 }
 .questions {
-    font: 62.5%/1.6 "proxima-nova", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+    font-family: Helvetica;
 	border-left: 0px;
 
 }
 body {
 
-    font: 62.5%/1.6 "proxima-nova", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+    font-family: Helvetica;
 }
 
 h1 {
-    font: 62.5%/1.6 "proxima-nova", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+    font-family: Helvetica;
 }
