@@ -1,0 +1,22 @@
+.comment {
+	font-family: Arial;
+	border-bottom: 0px;
+}
+.submit {
+	font-family: Arial;
+	border-right: 0px;
+
+}
+.questions {
+	font-family: Arial;
+	border-left: 0px;
+
+}
+body {
+
+	font-family: Arial;
+}
+
+h1 {
+	font-family: Arial;
+}
