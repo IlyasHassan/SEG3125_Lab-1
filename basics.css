@@ -25,6 +25,11 @@
 
 }
 body {
+    background-image: url("yhk1gA.jpg");
+    background-repeat: no-repeat center fixed;
+    background-size: cover;
+
+    background-color: #dd9ceb;
     font-family: Arial;
 }
 
@@ -40,3 +45,25 @@ html{
     background-size: cover;
     background-color: #dd9ceb;
 }
+img{
+    opacity: 0.5;
+
+}
+div {
+    width: 200px;
+    height: 200px;
+    display: block;
+    position: relative;
+  }
+  
+  div::after {
+    content: "";
+    background: url(yhk1gA.jpg);
+    opacity: 0.5;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    position: absolute;
+    z-index: -1;   
+  }
