@@ -24,11 +24,10 @@
     font-family: Arial;
 
 }
-.image11{
-    opacity: 0.5;
-}
+
 body {
     background-image: url("yhk1gA.jpg");
+    background-blend-mode: lighten;
     background-repeat: no-repeat center fixed;
     background-size: cover;
 
