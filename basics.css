@@ -5,6 +5,13 @@
 .submit {
     font-family: Arial;
 	border-right: 0px;
+    border-radius: 25px;
+
+}
+.submit2 {
+    font-family: Arial;
+	border-right: 0px;
+    border-radius: 25px;
 
 }
 .questions {
