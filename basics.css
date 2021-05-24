@@ -19,6 +19,11 @@
 	border-left: 0px;
 
 }
+.favourite{
+    border-radius: 25px;
+    font-family: Arial;
+
+}
 body {
     background-image: url("yhk1gA.jpg");
     background-repeat: no-repeat, repeat;
