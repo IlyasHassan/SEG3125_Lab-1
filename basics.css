@@ -25,10 +25,6 @@
 
 }
 body {
-    background-image: url("yhk1gA.jpg");
-    background-repeat: no-repeat, repeat;
-    background-color: #dd9ceb;
-
     font-family: Arial;
 }
 
@@ -37,4 +33,10 @@ h1 {
 }
 #text1{
     border-radius: 25px;
+}
+html{
+    background-image: url("yhk1gA.jpg");
+    background-repeat: no-repeat center fixed;
+    background-size: cover;
+    background-color: #dd9ceb;
 }
