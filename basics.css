@@ -50,8 +50,6 @@ img{
 
 }
 div {
-    width: 200px;
-    height: 200px;
     display: block;
     position: relative;
   }
@@ -65,5 +63,5 @@ div {
     bottom: 0;
     right: 0;
     position: absolute;
-    z-index: -1;   
+ 
   }
